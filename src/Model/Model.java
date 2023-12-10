@@ -1,4 +1,5 @@
-package GSLCOOP;
+package Model;
+
 
 public abstract class Model {
 	public Integer idTim;

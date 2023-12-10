@@ -1,4 +1,4 @@
-package GSLCOOP;
+package Model;
 
 public class Team extends Model {
 	public String namaTim;

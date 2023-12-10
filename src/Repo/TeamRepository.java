@@ -1,6 +1,10 @@
-package GSLCOOP;
+package Repo;
 
 import java.util.ArrayList;
+
+import Model.Team;
+import Model.User;
+import GSLCOOP.Connection;
 
 public class TeamRepository implements Repository {
 	

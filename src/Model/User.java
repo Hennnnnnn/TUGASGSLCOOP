@@ -1,8 +1,8 @@
-package GSLCOOP;
+package Model;
 
 public class User extends Model {
-	protected String namaUser;
-	protected String userNIM;
+	public String namaUser;
+	public String userNIM;
 	
 	public User(String namaUser, String userNIM, Integer idTim) {
 		super(idTim);

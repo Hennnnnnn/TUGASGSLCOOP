@@ -1,6 +1,9 @@
 package GSLCOOP;
 import java.util.*;
 
+import Repo.TeamRepository;
+import Repo.UserRepository;
+
 public class Main {
 	Scanner scanner = new Scanner(System.in);
 	Connection conn = new Connection();

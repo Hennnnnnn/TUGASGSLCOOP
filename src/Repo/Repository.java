@@ -1,6 +1,7 @@
-package GSLCOOP;
+package Repo;
 
 import java.util.*;
+import GSLCOOP.Connection;
 
 public interface Repository {
 	public void stringToObject(ArrayList<String> data);
